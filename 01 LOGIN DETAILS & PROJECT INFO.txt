@@ -16,7 +16,7 @@ Password: 123456
 **Employee Login Details**
 
 Username: WY01
-Password: password
+Password: 123456
 
 Username: WY02
 Password: 123456
